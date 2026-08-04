@@ -3,9 +3,9 @@
 
   # WOY Marketplace
 
-  L'app pour vendre et acheter simplement, avec ta communauté.
+  A free peer-to-peer marketplace that connects local buyers and sellers in the simplest, fastest, and most secure way possible.
 
-  [Site web](https://woy-marketplace.com) · [Support](https://woy-marketplace.com/support)
+  [Website](https://woy-marketplace.com) · [Support](https://woy-marketplace.com/support)
 
   [![X](https://img.shields.io/badge/X-@woymarketplace-000000?style=flat-square&logo=x)](https://x.com/woymarketplace)
   [![Bluesky](https://img.shields.io/badge/Bluesky-woy--marketplace.com-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/woy-marketplace.com)
