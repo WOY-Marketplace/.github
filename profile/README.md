@@ -3,14 +3,14 @@
 
   # WOY Marketplace
 
-  **Le marketplace social qui rapproche les gens.**
+  **The social marketplace that brings people closer.**
 
-  Achetez et vendez localement, en toute confiance : messagerie en temps réel, profils vérifiés, avis transparents et découverte personnalisée — le tout dans une seule application.
+  Buy and sell locally with confidence: real-time messaging, verified profiles, transparent reviews, and personalized discovery — all in one app.
 
-  [![Site web](https://img.shields.io/badge/Site_web-woy--marketplace.com-121212?style=flat-square)](https://woy-marketplace.com)
-  [![Télécharger](https://img.shields.io/badge/Télécharger-App_Store_%26_Google_Play-121212?style=flat-square)](https://woy-marketplace.com/download)
-  [![Actualités](https://img.shields.io/badge/Actualités-woy--marketplace.com%2Fnews-121212?style=flat-square)](https://woy-marketplace.com/news)
-  [![Support](https://img.shields.io/badge/Support-Nous_contacter-121212?style=flat-square)](https://woy-marketplace.com/support)
+  [![Website](https://img.shields.io/badge/Website-woy--marketplace.com-121212?style=flat-square)](https://woy-marketplace.com)
+  [![Download](https://img.shields.io/badge/Download-App_Store_%26_Google_Play-121212?style=flat-square)](https://woy-marketplace.com/download)
+  [![News](https://img.shields.io/badge/News-woy--marketplace.com%2Fnews-121212?style=flat-square)](https://woy-marketplace.com/news)
+  [![Support](https://img.shields.io/badge/Support-Contact_us-121212?style=flat-square)](https://woy-marketplace.com/support)
 
   [![X](https://img.shields.io/badge/X-@woymarketplace-000000?style=flat-square&logo=x)](https://x.com/woymarketplace)
   [![Bluesky](https://img.shields.io/badge/Bluesky-woy--marketplace.com-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/woy-marketplace.com)
@@ -23,27 +23,27 @@
 
 <br>
 
-## Notre vision
+## Our vision
 
-Acheter et vendre en ligne ne devrait pas se résumer à une transaction froide entre deux inconnus. WOY Marketplace remet les gens au centre du commerce : chaque vendeur a un profil, une réputation, une histoire — pas seulement une annonce.
+Buying and selling online shouldn't feel like a cold transaction between two strangers. WOY Marketplace puts people back at the center of commerce: every seller has a profile, a reputation, a story — not just a listing.
 
-Nous croyons que le commerce fonctionne mieux quand il est **local**, **social** et **humain**.
+We believe commerce works better when it's **local**, **social**, and **human**.
 
-## Ce que fait WOY Marketplace
+## What WOY Marketplace does
 
-- 🛍️ **Achat & vente locale** — publiez, découvrez et négociez près de chez vous
-- 💬 **Messagerie en temps réel** — photos, position, offres directement dans la conversation
-- ⭐ **Confiance & réputation** — profils vérifiés, avis transparents après chaque transaction
-- 🧭 **Découverte personnalisée** — un fil pensé pour vos préférences, pas juste une liste de produits
+- 🛍️ **Local buying & selling** — post, discover, and negotiate near you
+- 💬 **Real-time messaging** — photos, location, and offers right inside the conversation
+- ⭐ **Trust & reputation** — verified profiles, transparent reviews after every transaction
+- 🧭 **Personalized discovery** — a feed built around your preferences, not just a list of products
 
-## À propos
+## About
 
-WOY Marketplace est développé par **Fanmi Tech LLC**.
+WOY Marketplace is built by **Fanmi Tech LLC**.
 
-[![Fanmi Tech LLC](https://img.shields.io/badge/Développé_par-Fanmi_Tech_LLC-121212?style=flat-square)](https://fanmitechllc.com)
+[![Fanmi Tech LLC](https://img.shields.io/badge/Built_by-Fanmi_Tech_LLC-121212?style=flat-square)](https://fanmitechllc.com)
 
 <br>
 
 <div align="center">
-  <sub>© 2026 Fanmi Tech LLC. Tous droits réservés.</sub>
+  <sub>© 2026 Fanmi Tech LLC. All rights reserved.</sub>
 </div>
