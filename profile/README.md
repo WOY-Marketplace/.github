@@ -33,16 +33,6 @@ Available on the **App Store** and **Google Play** — or start from [woy-market
 <a href="https://woy-marketplace.com/support"><img src="https://img.shields.io/badge/Support-111111?style=flat-square" alt="Support"></a>
 <a href="mailto:support@woy-marketplace.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square" alt="Email"></a>
 
-<br><br>
-
-<a href="https://x.com/woymarketplace"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=FFFFFF" alt="X"></a>
-<a href="https://bsky.app/profile/woy-marketplace.com"><img src="https://img.shields.io/badge/Bluesky-111111?style=flat-square&logo=bluesky&logoColor=0285FF" alt="Bluesky"></a>
-<a href="https://www.instagram.com/whats.on.you"><img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
-<a href="https://www.tiktok.com/@whats.on.you"><img src="https://img.shields.io/badge/TikTok-111111?style=flat-square&logo=tiktok&logoColor=FFFFFF" alt="TikTok"></a>
-<a href="https://youtube.com/@whatsonyou"><img src="https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
-<a href="https://www.facebook.com/share/17XkKxHKHi/"><img src="https://img.shields.io/badge/Facebook-111111?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
-<a href="https://pin.it/6TfPjzvol"><img src="https://img.shields.io/badge/Pinterest-111111?style=flat-square&logo=pinterest&logoColor=E60023" alt="Pinterest"></a>
-
 </div>
 
 <br>
@@ -108,10 +98,24 @@ Submit yours from the Careers page: **[fanmitechllc.com/careers](https://fanmite
 
 ## Legal
 
-- [How we set the rules of the platform](https://woy-marketplace.com/legal/terms)
-- [How we manage your data](https://woy-marketplace.com/legal/privacy)
-- [How we use cookies](https://woy-marketplace.com/legal/cookies)
-- [How you can manage your account](https://woy-marketplace.com/legal/account-management)
+- How we set the rules of the platform — **[Terms of Use](https://woy-marketplace.com/legal/terms)**
+- How we manage your data — **[Privacy Policy](https://woy-marketplace.com/legal/privacy)**
+- How we use cookies — **[Cookie Policy](https://woy-marketplace.com/legal/cookies)**
+- How you can manage your account — **[Account Management](https://woy-marketplace.com/legal/account-management)**
+
+## Follow us
+
+<div align="center">
+
+<a href="https://x.com/woymarketplace"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=FFFFFF" alt="X"></a>
+<a href="https://bsky.app/profile/woy-marketplace.com"><img src="https://img.shields.io/badge/Bluesky-111111?style=flat-square&logo=bluesky&logoColor=0285FF" alt="Bluesky"></a>
+<a href="https://www.instagram.com/whats.on.you"><img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+<a href="https://www.tiktok.com/@whats.on.you"><img src="https://img.shields.io/badge/TikTok-111111?style=flat-square&logo=tiktok&logoColor=FFFFFF" alt="TikTok"></a>
+<a href="https://youtube.com/@whatsonyou"><img src="https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
+<a href="https://www.facebook.com/share/17XkKxHKHi/"><img src="https://img.shields.io/badge/Facebook-111111?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
+<a href="https://pin.it/6TfPjzvol"><img src="https://img.shields.io/badge/Pinterest-111111?style=flat-square&logo=pinterest&logoColor=E60023" alt="Pinterest"></a>
+
+</div>
 
 ## Built by Fanmi Tech LLC
 
