@@ -16,11 +16,11 @@ WOY Marketplace is a free peer-to-peer marketplace that connects local buyers an
 
 <p>
   <a href="https://apps.apple.com/app/id6742610614">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54">
+    <img src="https://raw.githubusercontent.com/WOY-Marketplace/.github/main/profile/assets/app-store-badge.png" alt="Download on the App Store" height="40">
   </a>
   &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.woy.marketplace">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="54">
+    <img src="https://raw.githubusercontent.com/WOY-Marketplace/.github/main/profile/assets/google-play-badge.png" alt="Get it on Google Play" height="40">
   </a>
 </p>
 
@@ -28,20 +28,20 @@ Available on the **App Store** and **Google Play** — or start from [woy-market
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-woy--marketplace.com-121212?style=for-the-badge)](https://woy-marketplace.com)
-[![News](https://img.shields.io/badge/News-Our_story-121212?style=for-the-badge)](https://woy-marketplace.com/news)
-[![Support](https://img.shields.io/badge/Support-Contact_us-121212?style=for-the-badge)](https://woy-marketplace.com/support)
-[![Email](https://img.shields.io/badge/Email-support@woy--marketplace.com-121212?style=for-the-badge)](mailto:support@woy-marketplace.com)
+<a href="https://woy-marketplace.com"><img src="https://img.shields.io/badge/Website-111111?style=flat-square" alt="Website"></a>
+<a href="https://woy-marketplace.com/news"><img src="https://img.shields.io/badge/News-111111?style=flat-square" alt="News"></a>
+<a href="https://woy-marketplace.com/support"><img src="https://img.shields.io/badge/Support-111111?style=flat-square" alt="Support"></a>
+<a href="mailto:support@woy-marketplace.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square" alt="Email"></a>
 
-<br>
+<br><br>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/woymarketplace)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/woy-marketplace.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whats.on.you)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@whats.on.you)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@whatsonyou)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17XkKxHKHi/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/6TfPjzvol)
+<a href="https://x.com/woymarketplace"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=FFFFFF" alt="X"></a>
+<a href="https://bsky.app/profile/woy-marketplace.com"><img src="https://img.shields.io/badge/Bluesky-111111?style=flat-square&logo=bluesky&logoColor=0285FF" alt="Bluesky"></a>
+<a href="https://www.instagram.com/whats.on.you"><img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+<a href="https://www.tiktok.com/@whats.on.you"><img src="https://img.shields.io/badge/TikTok-111111?style=flat-square&logo=tiktok&logoColor=FFFFFF" alt="TikTok"></a>
+<a href="https://youtube.com/@whatsonyou"><img src="https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
+<a href="https://www.facebook.com/share/17XkKxHKHi/"><img src="https://img.shields.io/badge/Facebook-111111?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
+<a href="https://pin.it/6TfPjzvol"><img src="https://img.shields.io/badge/Pinterest-111111?style=flat-square&logo=pinterest&logoColor=E60023" alt="Pinterest"></a>
 
 </div>
 
@@ -86,13 +86,6 @@ Tips for buying and selling with confidence — clear listings, fair pricing, sa
 
 **[Guides & Tips →](https://woy-marketplace.com/guides)**
 
-## Legal
-
-- [Terms of Use](https://woy-marketplace.com/legal/terms)
-- [Privacy Policy](https://woy-marketplace.com/legal/privacy)
-- [Cookie Policy](https://woy-marketplace.com/legal/cookies)
-- [Account Management](https://woy-marketplace.com/legal/account-management)
-
 ## Our story
 
 > *"WOY Marketplace is not just building another place to buy and sell. It is building a different relationship between people and commerce."*
@@ -113,6 +106,13 @@ Want to help build WOY Marketplace? Applications go through **Fanmi Tech LLC**.
 
 Submit yours from the Careers page: **[fanmitechllc.com/careers](https://fanmitechllc.com/careers)**
 
+## Legal
+
+- [How we set the rules of the platform](https://woy-marketplace.com/legal/terms)
+- [How we manage your data](https://woy-marketplace.com/legal/privacy)
+- [How we use cookies](https://woy-marketplace.com/legal/cookies)
+- [How you can manage your account](https://woy-marketplace.com/legal/account-management)
+
 ## Built by Fanmi Tech LLC
 
 <div align="center">
@@ -123,8 +123,12 @@ Submit yours from the Careers page: **[fanmitechllc.com/careers](https://fanmite
 
 <br><br>
 
-[![Fanmi Tech LLC](https://img.shields.io/badge/Website-fanmitechllc.com-121212?style=for-the-badge)](https://fanmitechllc.com)
-[![Careers](https://img.shields.io/badge/Careers-Apply_now-121212?style=for-the-badge)](https://fanmitechllc.com/careers)
+WOY Marketplace is built by [Fanmi Tech LLC](https://fanmitechllc.com).
+
+<br>
+
+<a href="https://fanmitechllc.com"><img src="https://img.shields.io/badge/Website-111111?style=flat-square" alt="Fanmi Tech LLC"></a>
+<a href="https://fanmitechllc.com/careers"><img src="https://img.shields.io/badge/Careers-111111?style=flat-square" alt="Careers"></a>
 
 </div>
 
