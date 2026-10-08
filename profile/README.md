@@ -8,21 +8,40 @@
 
 WOY Marketplace is a free peer-to-peer marketplace that connects local buyers and sellers in the simplest, fastest, and most secure way possible. List, sell, and earn — right from your phone.
 
-[![App Store](https://img.shields.io/badge/App_Store-Download_on_the-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/id6742610614)
-[![Google Play](https://img.shields.io/badge/Google_Play-Get_it_on-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.woy.marketplace)
-[![Download](https://img.shields.io/badge/Download-All_platforms-121212?style=flat-square)](https://woy-marketplace.com/download)
-[![Website](https://img.shields.io/badge/Website-woy--marketplace.com-121212?style=flat-square)](https://woy-marketplace.com)
-[![News](https://img.shields.io/badge/News-Our_story-121212?style=flat-square)](https://woy-marketplace.com/news)
-[![Support](https://img.shields.io/badge/Support-Contact_us-121212?style=flat-square)](https://woy-marketplace.com/support)
-[![Email](https://img.shields.io/badge/Email-support@woy--marketplace.com-121212?style=flat-square)](mailto:support@woy-marketplace.com)
+</div>
 
-[![X](https://img.shields.io/badge/X-@woymarketplace-000000?style=flat-square&logo=x)](https://x.com/woymarketplace)
-[![Bluesky](https://img.shields.io/badge/Bluesky-woy--marketplace.com-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/woy-marketplace.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@whats.on.you-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/whats.on.you)
-[![TikTok](https://img.shields.io/badge/TikTok-@whats.on.you-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@whats.on.you)
-[![YouTube](https://img.shields.io/badge/YouTube-@whatsonyou-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@whatsonyou)
-[![Facebook](https://img.shields.io/badge/Facebook-WOY-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/17XkKxHKHi/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-WOY-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pin.it/6TfPjzvol)
+## Get the app
+
+<div align="center">
+
+<p>
+  <a href="https://apps.apple.com/app/id6742610614">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.woy.marketplace">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="54">
+  </a>
+</p>
+
+Available on the **App Store** and **Google Play** — or start from [woy-marketplace.com/download](https://woy-marketplace.com/download).
+
+<br>
+
+[![Website](https://img.shields.io/badge/Website-woy--marketplace.com-121212?style=for-the-badge)](https://woy-marketplace.com)
+[![News](https://img.shields.io/badge/News-Our_story-121212?style=for-the-badge)](https://woy-marketplace.com/news)
+[![Support](https://img.shields.io/badge/Support-Contact_us-121212?style=for-the-badge)](https://woy-marketplace.com/support)
+[![Email](https://img.shields.io/badge/Email-support@woy--marketplace.com-121212?style=for-the-badge)](mailto:support@woy-marketplace.com)
+
+<br>
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/woymarketplace)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/woy-marketplace.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whats.on.you)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@whats.on.you)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@whatsonyou)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17XkKxHKHi/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/6TfPjzvol)
 
 </div>
 
@@ -49,15 +68,30 @@ We believe commerce works better when it's **local**, **social**, and **human**.
 
 ## What WOY Marketplace does
 
-- **Local buying & selling** — post, discover, and negotiate near you
-- **Real-time messaging** — chat, photos, voice, location, and offers right inside the conversation
-- **Trust & reputation** — verified profiles, transparent reviews after every transaction
-- **Personalized discovery** — a feed built around your preferences, not just a list of products
-- **Social profiles** — follow sellers, build reputation, and grow a real community presence
-- **Seller shopfront** — structure your listings and run your presence like an online shop
-- **WOY Pro** — optional tools for visibility, performance, and a more complete selling experience
+| | |
+|:--|:--|
+| **Local marketplace** | Post, discover, and negotiate near you |
+| **Real-time messaging** | Chat, photos, voice, location, and offers inside the conversation |
+| **Trust & reputation** | Verified profiles and transparent reviews after every transaction |
+| **Personalized discovery** | A feed built around your preferences, not just a product list |
+| **Social profiles** | Follow sellers, build reputation, and grow a real community presence |
+| **Seller shopfront** | Structure your listings and run your presence like an online shop |
+| **[WOY Pro ✦](https://woy-marketplace.com/premium)** | Optional tools for visibility, performance, and a fuller selling experience — [learn more →](https://woy-marketplace.com/premium) |
 
 Exchanges happen between people. WOY Marketplace does not process payments or handle delivery.
+
+## Best practices
+
+Tips for buying and selling with confidence — clear listings, fair pricing, safe in-person meetings, and account protection:
+
+**[Guides & Tips →](https://woy-marketplace.com/guides)**
+
+## Legal
+
+- [Terms of Use](https://woy-marketplace.com/legal/terms)
+- [Privacy Policy](https://woy-marketplace.com/legal/privacy)
+- [Cookie Policy](https://woy-marketplace.com/legal/cookies)
+- [Account Management](https://woy-marketplace.com/legal/account-management)
 
 ## Our story
 
@@ -84,14 +118,13 @@ Submit yours from the Careers page: **[fanmitechllc.com/careers](https://fanmite
 <div align="center">
 
 <a href="https://fanmitechllc.com">
-  <img src="https://raw.githubusercontent.com/WOY-Marketplace/.github/main/profile/assets/fanmi-tech-wordmark-light.png#gh-light-mode-only" height="36" alt="Fanmi Tech LLC" />
-  <img src="https://raw.githubusercontent.com/WOY-Marketplace/.github/main/profile/assets/fanmi-tech-wordmark-dark.png#gh-dark-mode-only" height="36" alt="Fanmi Tech LLC" />
+  <img src="https://raw.githubusercontent.com/WOY-Marketplace/.github/main/profile/assets/fanmi-tech-wordmark.png" height="40" alt="Fanmi Tech LLC" />
 </a>
 
 <br><br>
 
-[![Fanmi Tech LLC](https://img.shields.io/badge/Website-fanmitechllc.com-121212?style=flat-square)](https://fanmitechllc.com)
-[![Careers](https://img.shields.io/badge/Careers-Apply_now-121212?style=flat-square)](https://fanmitechllc.com/careers)
+[![Fanmi Tech LLC](https://img.shields.io/badge/Website-fanmitechllc.com-121212?style=for-the-badge)](https://fanmitechllc.com)
+[![Careers](https://img.shields.io/badge/Careers-Apply_now-121212?style=for-the-badge)](https://fanmitechllc.com/careers)
 
 </div>
 
